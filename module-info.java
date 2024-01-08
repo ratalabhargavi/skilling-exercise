@@ -5,5 +5,5 @@
  * @author DELL
  *
  */
-module student {
+module fibonacci {
 }
